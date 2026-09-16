@@ -1,0 +1,20 @@
+# AR Industrial Safety Simulator
+
+## Project Goal
+
+Create a mobile AR simulator that allows industrial workers
+to practice emergency safety procedures in a safe virtual environment.
+
+## First Scenario
+
+Gas Leak Emergency
+
+## Core Flow
+
+1. Detect gas leak
+2. Identify hazard
+3. Select PPE
+4. Raise alarm
+5. Choose evacuation route
+6. Reach safe zone
+7. Calculate safety score
